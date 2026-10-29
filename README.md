@@ -21,4 +21,4 @@ Users on 1.4.5 or earlier need to install the first updater-enabled version manu
 
 The stable signed feed is [appcast.xml](https://github.com/renzoclaros/drop-updates/releases/latest/download/appcast.xml).
 
-SHA-256 checksum files are included with releases. Only installers, update feeds, checksums, and release notes are published here.
+SHA-256 checksum files are included with releases. Installers, update feeds, checksums, release notes, and third-party codec source archives are published here. Codec source archives include the upstream component sources, license notices, and build recipe; they do not include Drop’s application source.
